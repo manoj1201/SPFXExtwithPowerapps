@@ -1,0 +1,30 @@
+// Css for close button 
+.CloseButton 
+{
+float: right;
+background-color: #3860b2;
+height: 40px;
+color: antiquewhite; 
+}
+.CloseButton:hover{
+     background-color: #3860b2;
+   }
+   .ms-modal-head
+  {
+     background-color: #3860b2;
+     width: 100%;
+     float: left;
+     text-align: center;
+  }
+  // Modal header title style
+  .ms-modal-headerTitle{
+     padding: 5px;
+     margin: 0 auto;
+     text-align: center;
+     display: inline-block;
+     color: #fff;
+     font-family: Arial, sans-serif;
+     line-height: 1.2;
+     font-size: 16px;
+     padding-top: 11px;
+  }
